@@ -1,4 +1,10 @@
-# **API Mercado Pago PHP sem composer**
+# **API Mercado Pago PHP**
+# Retirando a nescessidade de composer no servidor de produção.
+
+&nbsp;
+
+## *Biblioteca indicada para projetos que não utilizam composer em seu escopo*
+### *O proposíto destá bliblioteca é facilitar a implementação do mediador de pagamentos (MP) sem muitas mudaças no escopo e arquitetura do projeto.*
 
 &nbsp;
 &nbsp;
@@ -140,6 +146,9 @@ Pronto, você já está com SDK atualizado em mãos.
 &nbsp;
 
 **Feito por Gabriel Felix**
+
+
+#### Se precisar de um help ou alguma sujestão pode entrar em contato pelo meu [perfil do linkedin](https://www.linkedin.com/in/gabriel-felix-99b51217b/)
 
 
 
